@@ -1,5 +1,5 @@
 # ethioMart-telegram-ner
-# Ethio Telegram NER Pipeline
+# EthioMart Telegram NER Pipeline
 
 This project collects and preprocesses Amharic e-commerce data from Ethiopian-based Telegram channels to support Named Entity Recognition (NER) model fine-tuning.
 
