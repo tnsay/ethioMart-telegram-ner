@@ -26,4 +26,4 @@ This project collects and preprocesses Amharic e-commerce data from Ethiopian-ba
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/ethio-telegram-ner.git
+git clone https://github.com/tnsay/ethioMart-telegram-ner.git
