@@ -1,5 +1,4 @@
 # Telegram scraper script placeholder
-
 # client = TelegramClient('session', api_id, api_hash)
 # await client.start()
 
